@@ -23,3 +23,10 @@ Massive Thanks - Theflow0, SiSTRo, Znullptr, ChendoChap, Leeful, Sleirsgoevy,Spe
 
 
 Website-Host by Mouuu
+
+GZ online compress
+
+https://gzip.swimburger.net/
+
+First compress the goldhen.bin to goldhen.bin.gz
+then duplicate it to following file name to upload
